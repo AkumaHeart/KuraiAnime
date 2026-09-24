@@ -1,6 +1,23 @@
 body {
-  background-color: black;
+  background-color: #141414;
   color: white;
+}
+
+button {
+  background: rgba(0,0,0, 0.5);
+  border: none;
+  border-radius: 0.31em;
+  padding: 0.93em 1.87em;
+  color: #fff;
+  margin-right: 1.25em;
+  cursor: pointer;
+  transition: .3s ease all;
+  font-size: 1.12em;
+}
+
+button:hover {
+  background: #fff;
+	color: #000;
 }
 
 .Poster-MSLN-T1 {
@@ -90,7 +107,7 @@ a {
 }
 
 div {
-   background-color: rgb(77, 77, 77);
+  background-color: Black;
   color: white;
 }
 
@@ -118,7 +135,7 @@ button {
   color: white;
 }
 
-.genero-Shōjo .genero-Magia .genero-Fantasia .genero-Isekai {
+.genero-1 .genero-2 .genero-3 .genero-4 .genero-5 {
   margin-top: -2px;
 }
 
