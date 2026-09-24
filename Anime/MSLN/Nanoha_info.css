@@ -1,0 +1,1389 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+button {
+  background: rgba(0,0,0, 0.5);
+  border: none;
+  border-radius: 0.31em;
+  padding: 0.93em 1.87em;
+  color: #fff;
+  margin-right: 1.25em;
+  cursor: pointer;
+  transition: .3s ease all;
+  font-size: 1.12em;
+}
+
+button:hover {
+  background: #fff;
+	color: #000;
+}
+
+.Poster-MSLN-T1 {
+  width: 185px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-T2 {
+  width: 165px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-T3 {
+  width: 173px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-T4 {
+  width: 145px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-T5 {
+  width: 168px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-ViVid_Strike_Specials-Ova {
+  width: 120px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-P1 {
+  width: 189px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-P2 {
+  width: 205px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-P3 {
+  width: 152px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+.Poster-MSLN-P4 {
+  width: 130px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+
+a {
+  color: white;
+  margin-top: 10px;
+}
+
+div {
+  background-color: Black;
+  color: white;
+}
+
+.Episodios-Nanoha-T1 {
+  margin-left: 220px;
+}
+
+.Episodio-T1-E1 .Poster-E1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E1 {
+  margin-top: -2px;
+}
+
+button {
+  background-color: inherit;
+  color: white;
+}
+
+.genero-1 .genero-2 .genero-3 .genero-4 .genero-5 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E2 .Poster-E2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E2 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E3 .Poster-E3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E3 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E4 .Poster-E4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E4 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E5 .Poster-E5 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E5 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E5 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E6 .Poster-E6 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E6 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E6 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E7 .Poster-E7 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E7 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E7 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E8 .Poster-E8 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E8 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E8 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E9 .Poster-E9 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E9 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E9 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E10 .Poster-E10 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E10 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E10 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E11 .Poster-E11 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E11 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E11 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E12 .Poster-E12 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E12 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E12 {
+  margin-top: -2px;
+}
+
+.Episodio-T1-E13 .Poster-E13 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-E13 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T1-E13 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-T2 {
+  margin-left: 220px;
+}
+
+.Episodio-T2-E1 .Poster-T2-E1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E1 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E2 .Poster-T2-E2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E2 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E3 .Poster-T2-E3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E3 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E4 .Poster-T2-E4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E4 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E5 .Poster-T2-E5 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E5 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E5 {
+  margin-top: -2px;
+}
+
+
+.Episodio-T2-E6 .Poster-T2-E6 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E6 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E6 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E7 .Poster-T2-E7 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E7 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E7 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E8 .Poster-T2-E8 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E8 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E8 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E9 .Poster-T2-E9 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E9 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E9 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E10 .Poster-T2-E10 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E10 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E10 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E11 .Poster-T2-E11 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E11 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E11 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E12 .Poster-T2-E12 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E12 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E12 {
+  margin-top: -2px;
+}
+
+.Episodio-T2-E13 .Poster-T2-E13 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T2-E13 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T2-E13 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-T3 {
+  margin-left: 220px;
+}
+
+.Episodio-T3-E1 .Poster-T3-E1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E1 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E2 .Poster-T3-E2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E2 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E3 .Poster-T3-E3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E3 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E4 .Poster-T3-E4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E4 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E5 .Poster-T3-E5 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E5 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E5 {
+  margin-top: -2px;
+}
+
+
+.Episodio-T3-E6 .Poster-T3-E6 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E6 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E6 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E7 .Poster-T3-E7 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E7 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E7 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E8 .Poster-T3-E8 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E8 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E8 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E9 .Poster-T3-E9 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E9 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E9 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E10 .Poster-T3-E10 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E10 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E10 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E11 .Poster-T3-E11 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E11 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E11 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E12 .Poster-T3-E12 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E12 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E12 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E13 .Poster-T3-E13 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E13 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E13 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E14 .Poster-T3-E14 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E14 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E14 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E15 .Poster-T3-E15 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E15 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E15 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E16 .Poster-T3-E16 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E16 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E16 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E17 .Poster-T3-E17 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E17 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E17 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E18 .Poster-T3-E18 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E18 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E18 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E19 .Poster-T3-E19 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E19 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E19 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E20 .Poster-T3-E20 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E20 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E20 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E21 .Poster-T3-E21 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E21 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E21 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E22 .Poster-T3-E22 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E22 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E22 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E23 .Poster-T3-E23 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E23 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E23 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E24 .Poster-T3-E24 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E24 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E24 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E25 .Poster-T3-E25 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E25 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E25 {
+  margin-top: -2px;
+}
+
+.Episodio-T3-E26 .Poster-T3-E26 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T3-E26 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T3-E26 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-T4 {
+  margin-left: 220px;
+}
+
+.Episodio-T4-E1 .Poster-T4-E1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E1 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E2 .Poster-T4-E2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E2 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E3 .Poster-T4-E3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E3 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E4 .Poster-T4-E4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E4 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E5 .Poster-T4-E5 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E5 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E5 {
+  margin-top: -2px;
+}
+
+
+.Episodio-T4-E6 .Poster-T4-E6 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E6 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E6 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E7 .Poster-T4-E7 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E7 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E7 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E8 .Poster-T4-E8 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E8 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E8 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E9 .Poster-T4-E9 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E9 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E9 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E10 .Poster-T4-E10 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E10 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E10 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E11 .Poster-T4-E11 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E11 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E11 {
+  margin-top: -2px;
+}
+
+.Episodio-T4-E12 .Poster-T4-E12 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T4-E12 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T4-E12 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-T5 {
+  margin-left: 220px;
+}
+
+
+.Episodio-T5-E1 .Poster-T5-E1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E1 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E2 .Poster-T5-E2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E2 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E3 .Poster-T5-E3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E3 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E4 .Poster-T5-E4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E4 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E5 .Poster-T5-E5 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E5 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E5 {
+  margin-top: -2px;
+}
+
+
+.Episodio-T5-E6 .Poster-T5-E6 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E6 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E6 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E7 .Poster-T5-E7 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E7 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E7 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E8 .Poster-T5-E8 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E8 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E8 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E9 .Poster-T5-E9 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E9 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E9 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E10 .Poster-T5-E10 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E10 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E10 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E11 .Poster-T5-E11 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E11 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E11 {
+  margin-top: -2px;
+}
+
+.Episodio-T5-E12 .Poster-T5-E12 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-T5-E12 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-T5-E12 {
+  margin-top: -2px;
+}
+
+.ViVid_Strike_Specials-Ova {
+  margin-left: 220px;
+}
+
+.Ova .Poster-Ova {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-Ova {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción Ova {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-P2 {
+  margin-left: 220px;
+}
+
+.Pelicula-2 .Poster-P2 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-P2 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-P2 {
+  margin-top: -2px;
+}
+
+
+.Pelicula-1 .Poster-P1 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-P1 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-P1 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-P3 {
+  margin-left: 220px;
+}
+
+.Pelicula-3 .Poster-P3 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-P3 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-P3 {
+  margin-top: -2px;
+}
+
+.Episodios-Nanoha-P4 {
+  margin-left: 220px;
+}
+
+.Pelicula-4 .Poster-P4 {
+  float: left;
+  margin-left: 225px;
+}
+
+.Poster-P4 {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.Descripción-P4 {
+  margin-top: -2px;
+}
+
+.Temporadas nav a {
+	color: #AAA;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+.Temporadas nav a:hover,
+.Temporadas nav a.activo {
+	color: #FFF;
+}
