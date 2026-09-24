@@ -1,0 +1,45 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: sans-serif;}
+
+video {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - var(--ntp-one-google-bar-height));
+  min-width: fit-content;
+  position: relative;
+  z-index: 1;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  background-color: black;
+}
+
+body {
+  background-color: black;
+}
+
+button {
+  background-color: inherit;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn-add {
+  position: relative;
+  float: left;
+  margin-top: -800px;
+  margin-left: 30px;
+}
+
+
+.btn-add .btn-back:hover {
+  transform: scale(1.1);
+}
+
+iframe {
+  margin-left: 50px;
+}
