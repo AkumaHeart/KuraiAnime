@@ -1,0 +1,180 @@
+body {
+  background-color: #141414;
+  color: white;
+  margin: 0px;
+}
+header {
+  display: flex;
+  min-height: 60px;
+  justify-content: space-between;
+  background-color: black;
+  align-items: center;
+  padding: 10px;
+}
+.Logo2 {
+  margin-top: 30px;
+  height: 100px;
+  margin-left: 10px;
+}
+
+nav a {
+  font-size: 25px;
+  font-weight: bold;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+nav a:hover {
+    color: #4D4DFF;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+}
+.PF {
+  text-decoration: underline;
+  color: darkgray;
+}
+
+.PF:hover {
+  color: white;
+}
+
+.active {
+  color: #4D4DFF;
+}
+
+input {
+    border-radius: 5px;
+    border-color: white;
+    background-color: Black;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #4D4DFF;
+    color: white;
+    font-size: 20px;
+}
+
+.icon-search:before {
+  content: "\e986";
+}
+
+.Body1 {
+  margin-top: 10px;
+  display: flex;
+  min-height: 320px;
+  background-color: Black;
+  justify-content: center;
+}
+
+.Announce {
+  margin-top: 10px;
+  display: flex;
+  min-height: 320px;
+  background-color: Black;
+}
+.ADS {
+  margin-top: 10px;
+  display: flex;
+  min-height: 320px;
+  margin-left: 10%;
+  background-color: Black;
+}
+
+.containerLogin {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 320px;
+  background-color: Black;
+  align-items: center;
+}
+.containerLogin h2 {
+  text-align: center;
+}
+
+.containerInput2 {
+  margin-left: 1px;
+  justify-content: center;
+}
+
+.Form {
+  justify-content: center;
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  position: bottom;
+  margin-top: 10px;
+  background-color: Black;
+}
+
+.Lang {
+  margin-left: 1%;
+}
+h6 {
+  margin-left: 5%;
+}
+
+select {
+  border-color: white;
+  background-color: black;
+  color: White;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+@media (max-width: 1255px) {
+  header {
+    flex-direction: column;
+  }
+  nav {
+  padding: 10px 0px;
+  }
+  .Body1 {
+    flex-direction: column;
+  }
+  input {
+    font-size: 40px;
+  }
+  span {
+    justify-content: center;
+    font-size: 40px;
+  }
+  .containerInput2 input {
+    margin-left: 12px;
+  }
+  button {
+    font-size: 40px;
+  }
+  .Reg {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+  select {
+    font-size: 40px;
+  }
+  option {
+    font-size: 20px;
+  }
+  h6 {
+    font-size: 30px;
+  }
+}
+
+.Close {
+  display: flex;
+  margin-left: 110%;
+}
